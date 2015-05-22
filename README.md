@@ -8,4 +8,4 @@ For first 2 PyCons (PyCon 2012 and [PyCon 2014](http://pycon-2014.python.ph/)), 
 
 In here you may also find a list of contact points and links to some useful resources for volunteering for PyConPH.
 
-[View the Wiki](https://github.com/pythonph/pycon-organizer-manual/wiki)
+Excited to contribute for PyCon? Great! [start here](https://github.com/pythonph/pycon-organizer-manual/wiki) :)
