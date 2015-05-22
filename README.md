@@ -5,4 +5,4 @@ For first 2 PyCons (PyCon 2012 and PyCon 2014), we sort of went on a "think on y
 
 Here you may also find a list of contact points and links to some useful resources for volunteering for PyConPH.
 
-[Go to the Wiki](https://github.com/pythonph/pycon-organizer-manual/wiki)
+[View the Wiki](https://github.com/pythonph/pycon-organizer-manual/wiki)
