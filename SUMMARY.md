@@ -13,4 +13,5 @@
    * [Stage-hand](stage-hand.md)
    * [Documentation](documentation.md)
 * Post-conference
+   * Encountered problems
 
