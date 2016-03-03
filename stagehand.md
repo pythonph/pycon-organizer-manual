@@ -1,4 +1,4 @@
-# Stage-hand
+# Stagehand
 
 - Responsible for video coverage.
 - Responsible for extra projector, microphone, tables, laptop, etc.
