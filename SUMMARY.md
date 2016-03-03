@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [What is PyCon Philippines (PyCon PH)?](what-is-pyconph.md)
    * [The Basics](basics.md)
-   * Volunteers
+   * [Volunteers](volunteers.md)
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
