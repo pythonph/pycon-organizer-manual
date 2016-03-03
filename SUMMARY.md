@@ -5,6 +5,6 @@
    * [The Basics](basics.md)
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
-   * [Program](program.md)
    * Logistics
+   * [Program](program.md)
 
