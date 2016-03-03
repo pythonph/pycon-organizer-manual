@@ -13,6 +13,6 @@
    * [Stage-hand](stage-hand.md)
    * [Documentation](documentation.md)
 * Post-conference
-   * [Encountered problems](problems.md)
    * [Reporting to PSF](psf-report.md)
+   * [Encountered problems](problems.md)
 
