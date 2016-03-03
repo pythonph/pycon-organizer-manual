@@ -6,4 +6,5 @@
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Program](program.md)
+   * Logistics
 
