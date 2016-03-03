@@ -9,5 +9,5 @@
    * [Program](program.md)
    * [Marketing](marketing.md)
    * [Design](design.md)
-   * Stage-hand
+   * [Stage-hand](stage-hand.md)
 
