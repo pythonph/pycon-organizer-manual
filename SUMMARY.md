@@ -8,5 +8,5 @@
    * [Logistics](logistics.md)
    * [Program](program.md)
    * [Marketing](marketing.md)
-   * Design
+   * [Design](design.md)
 
