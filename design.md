@@ -1,8 +1,8 @@
 # Design
 
-- Filipino hospitality for our foreign speakers
-- Accomodation for foreign speakers/guests
-- Merienda
-- Meeting foreign speakers/guests at the airport
-- Escort foreign speakers/guests to their hotel
-- Immigration letters
+- Responsible for building the PyCon website
+- Responsible for web and print advertisements
+- Responsible for tarpaulin and banner designs
+- Responsible for brochure
+- Responsible for speakers, volunteer, and participants IDs
+- Responsible for preparing swags
