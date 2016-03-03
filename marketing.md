@@ -6,9 +6,3 @@
 * Responsible for gathering feedback (during pycon and after pycon).
 * Responsible for mailchimp (email marketing and announcements)
 * Responsible for informing participants of [Code of Conduct](http://pycon.python.ph/coc.html) prior to conference.
-* Filipino hospitality for our foreign speakers
-* Accomodation for foreign speakers/guests
-* Merienda
-* Meeting foreign speakers/guests at the airport
-* Escort foreign speakers/guests to their hotel
-* Immigration letters
