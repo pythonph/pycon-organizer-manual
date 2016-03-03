@@ -7,5 +7,5 @@
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
    * [Program](program.md)
-   * Marketing
+   * [Marketing](marketing.md)
 
