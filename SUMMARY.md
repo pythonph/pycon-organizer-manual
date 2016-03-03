@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [What is PyCon Philippines (PyCon PH)?](what-is-pyconph.md)
+   * [What is PyCon Philippines (PyCon PH)?](pyconph.md)
    * [Code of Conduct](coc.md)
    * [Volunteers](volunteers.md)
 * [Committees and Responsibilities](committees.md)
