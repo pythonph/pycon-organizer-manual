@@ -5,4 +5,5 @@
    * [The Basics](basics.md)
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
+   * Program
 
