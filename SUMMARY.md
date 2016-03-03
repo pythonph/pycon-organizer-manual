@@ -10,7 +10,7 @@
    * [Program](program.md)
    * [Marketing](marketing.md)
    * [Design](design.md)
-   * [Stage-hand](stagehand.md)
+   * [Stagehand](stagehand.md)
    * [Documentation](documentation.md)
 * Post-conference
    * [Reporting to PSF](psf-report.md)
