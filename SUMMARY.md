@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * [What is PyCon Philippines (PyCon PH)?](what-is-pycon-ph.md)
+   * [What is PyCon Philippines (PyCon PH)?](what-is-pyconph.md)
    * [The Basics](basics.md)
 
