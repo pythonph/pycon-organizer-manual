@@ -4,7 +4,7 @@ This task is one of the most challenging tasks in organizing PyCon. It involves 
 
 ## Responsibilities
 
-- Responsible for conference food, volunteer dinner, and footwork
+- Responsible for conference food, volunteer briefing, contributors (sponsors, speakers and volunteers) dinner on Day 1 and footwork
 - Tasks also include all the footwork and communication needed to get things in order for our conference venue and food
 
 ### Venue
