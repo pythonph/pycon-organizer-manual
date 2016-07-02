@@ -15,5 +15,5 @@
    * [Documentation](documentation.md)
 * Post-conference
    * [Reporting to PSF](psf-report.md)
-   * [Encountered problems](problems.md)
+   * [Problems Encountered and Possible Solutions](problems.md)
 
