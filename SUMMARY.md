@@ -7,7 +7,7 @@
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
-   * [Guest Relations](guest_relations.md)
+   * [Guest Relations](guest-relations.md)
    * [Program](program.md)
    * [Marketing](marketing.md)
    * [Design](design.md)
