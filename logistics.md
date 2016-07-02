@@ -10,3 +10,4 @@ This task is one of the most challenging tasks in organizing PyCon. It involves 
    - Conference hall for 300pax for Day 1 and Day 2
    - 2-3 Classroom for Day 2 Workshops
    - War room for volunteers (a small classroom will do)
+   - Parking Spaces
