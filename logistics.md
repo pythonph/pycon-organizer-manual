@@ -24,4 +24,5 @@ This task is one of the most challenging tasks in organizing PyCon. It involves 
    - Water
    - Water Dispenser
    - Tissue Paper
+   - Untensils
    - Coffee (you can invite someone to sell it at the conference)
