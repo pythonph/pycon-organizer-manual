@@ -14,3 +14,14 @@ This task is one of the most challenging tasks in organizing PyCon. It involves 
    - War room for volunteers (a small classroom will do)
    - Sound system, microphone, projector, projector screen, internet connection, electric outlet, extension cords, etc
    - Consider parking spaces (parking spaces at nearby establishments will do)
+   - Signs that help visitors find the conference, classrooms and restrooms
+
+### Food
+- It will be ideal to find a caterer who will take care of everything but if you can't due to budget contraints, packed meals will do. You will need to consider the following for Day 1 and Day 2
+   - AM snacks 
+   - Lunch
+   - PM Snacks
+   - Water
+   - Water Dispenser
+   - Tissue Paper
+   - Coffee (you can invite someone to sell it at the conference)
