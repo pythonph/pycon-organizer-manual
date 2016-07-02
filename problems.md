@@ -1,4 +1,4 @@
-# Problems Encountered in the Previous PyCons and Possible Solutions
+# Problems Encountered and Possible Solutions
 
 This page will serve as documentation for the problems encountered in previous PyCons and what are the suggested solutions/workarounds.
 
