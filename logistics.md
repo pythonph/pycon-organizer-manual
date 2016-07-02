@@ -10,7 +10,7 @@ This task is one of the most challenging tasks in organizing PyCon. It involves 
 ### Venue
 - Reservation of venue includes the following:
    - Conference hall for 300pax for Day 1 and Day 2
-   - 2-3 Classroom for Day 2 Workshops
+   - 2-3 Classrooms for Day 2 Workshops
    - War room for volunteers (a small classroom will do)
    - Sound system, microphone, projector, projector screen, internet connection, electric outlet, extension cords, etc
    - Consider parking spaces (parking spaces at nearby establishments will do)
