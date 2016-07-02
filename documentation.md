@@ -8,6 +8,6 @@ The video should be uploaded after the event (preferably, within one week after 
 
 ## Responsibilities
 
-- Finding a local videographer/photographer for PyCon
+- Finding a local videographer and photographer for PyCon
 - Responsible for writing a blog post on PyCon.
 - Responsible for updating website once the images and videos are available
