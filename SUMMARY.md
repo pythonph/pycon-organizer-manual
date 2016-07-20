@@ -10,7 +10,6 @@
    * [Guest Relations](guest-relations.md)
    * [Program](program.md)
    * [Design and Marketing](design-and-marketing.md)
-   * [Design](design.md)
    * [Stagehand](stagehand.md)
    * [Documentation](documentation.md)
 * Post-conference
