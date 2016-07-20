@@ -1,4 +1,4 @@
-# Marketing
+# Design and Marketing
 
 ## Responsibilities
 
@@ -8,6 +8,12 @@
 - Responsible for gathering feedback (during pycon and after pycon).
 - Responsible for mailchimp (email marketing and announcements)
 - Responsible for informing participants of [Code of Conduct](http://pycon.python.ph/coc.html) prior to conference.
+- Responsible for building the PyCon website
+- Responsible for web and print advertisements
+- Responsible for tarpaulin and banner designs
+- Responsible for brochure
+- Responsible for speakers, volunteer, and participants IDs
+- Responsible for preparing swags
 
 ### Email Marketing
 
