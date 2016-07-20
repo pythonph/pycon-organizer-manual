@@ -1,9 +1,9 @@
-Guest Relations
-===============
+# Guest Relations
+
 This is to ensure safety and a pleasant experience to our foreign and local guests (especially the speakers)
 
-Responsibilities
-================
+## Responsibilities
+
 * Filipino hospitality for our foreign speakers
 * Booking of accommodation for foreign speakers/guests
 * Food for keynote speakers
