@@ -1,4 +1,16 @@
 # Program
+## Responsibilities
+
+- Responsible for coming up with a theme.
+- Responsible for making a schedule.
+- Responsible for calling, choosing, and preparing for speakers.
+- Filipino hospitality for our foreign speakers
+- Accomodation for foreign speakers/guests
+- Merienda
+- Meeting foreign speakers/guests at the airport
+- Escort foreign speakers/guests to their hotel
+- Immigration letters
+- Assign and brief emcee
 
 ## Speakers
 
@@ -28,16 +40,3 @@ Here's a checklist of tasks/pointers for PyCon emcees:
 - Speak in English so we can make our foreign guests feel welcome.
 - Follow the [Code of Conduct](http://ph.pycon.org/coc.html)
 - As closing, wish the attendees a safe trip home and we'll see them tomorrow (if day 1) or we'll see them again next year.
-
-
-## Responsibilities
-
-- Responsible for coming up with a theme.
-- Responsible for making a schedule.
-- Responsible for calling, choosing, and preparing for speakers.
-- Filipino hospitality for our foreign speakers
-- Accomodation for foreign speakers/guests
-- Merienda
-- Meeting foreign speakers/guests at the airport
-- Escort foreign speakers/guests to their hotel
-- Immigration letters
