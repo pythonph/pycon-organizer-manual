@@ -10,8 +10,8 @@
    * [Guest Relations](guest-relations.md)
    * [Program](program.md)
    * [Design and Marketing](design-and-marketing.md)
+   * [Documentation](documentation.md)
    * [Stagehand](stagehand.md)
-* [Documentation](documentation.md)
 * Post-conference
    * [Reporting to PSF](psf-report.md)
    * [Problems Encountered and Possible Solutions](problems.md)
