@@ -8,8 +8,8 @@
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
    * [Design and Marketing](design-and-marketing.md)
-   * [Guest Relations](guest-relations.md)
    * [Program](program.md)
+   * [Guest Relations](guest-relations.md)
    * [Stagehand](stagehand.md)
    * [Documentation](documentation.md)
 * Post-conference
