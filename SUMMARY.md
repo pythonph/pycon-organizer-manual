@@ -9,7 +9,7 @@
    * [Logistics](logistics.md)
    * [Guest Relations](guest-relations.md)
    * [Program](program.md)
-   * [Marketing](marketing.md)
+   * [Design and Marketing](marketing.md)
    * [Design](design.md)
    * [Stagehand](stagehand.md)
    * [Documentation](documentation.md)
