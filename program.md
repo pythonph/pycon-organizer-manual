@@ -17,7 +17,7 @@ This is to remove expectations that we will shoulder the speakers' traveling exp
 ### Confirmation of speakers
 
 1. Use president@python.ph to send the approval of speakers. This is to add legitimacy to the letter and to make the speakers feel good that the president themself is sending the letter.
-2. Ask in the approval letter if the foreign speaker needs help for the visa.
+2. Ask in the approval letter if the foreign speaker needs help with the visa.
 
 ## Emcees
 
