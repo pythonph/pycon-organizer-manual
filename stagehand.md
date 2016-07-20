@@ -1,6 +1,5 @@
 # Stagehand
 
-- Responsible for video coverage.
 - Responsible for extra projector, microphone, tables, laptop, etc.
 - Should be on standby in case something goes wrong on-stage.
 - Should see to the needs of the audience.
