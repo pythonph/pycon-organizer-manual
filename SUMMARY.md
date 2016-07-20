@@ -7,10 +7,10 @@
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
+   * [Design and Marketing](design-and-marketing.md)
    * [Guest Relations](guest-relations.md)
    * [Program](program.md)
    * [Stagehand](stagehand.md)
-   * [Design and Marketing](design-and-marketing.md)
    * [Documentation](documentation.md)
 * Post-conference
    * [Reporting to PSF](psf-report.md)
