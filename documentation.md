@@ -3,7 +3,8 @@
 ## Responsibilities
 
 - Finding a local videographer and photographer for PyCon
-- Responsible for writing a blog post on PyCon.
+- Responsible for social media exposure (facebook, twitter, etc).
+- Responsible for writing a report/blog post on PyCon, to be used for blogs and future references
 - Responsible for updating website once the images and videos are available
 
 ## Preparation for PyCon
