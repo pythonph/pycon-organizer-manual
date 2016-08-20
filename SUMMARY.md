@@ -5,6 +5,7 @@
    * [Code of Conduct](coc.md)
    * [Volunteers](volunteers.md)
    * [PyCon Chair](chair.md)
+   * [Communication between volunteers](communication.md)
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
