@@ -1,6 +1,8 @@
 # Logistics
 
-This task is one of the most challenging tasks in organizing PyCon. It involves venue sourcing, selection, and preparation; arrangement of catering for snacks, meals, and drinks.
+This committee is very demanding before and during the conference. However, we've planned the committees so that Logistic will not be working after the conference. However for feedback purposes, they will still be expected during the retrospective event.
+
+The challenge in this committee involves venue sourcing, selection, and preparation; arrangement of catering for snacks, meals, and drinks.
 
 ## Responsibilities
 
@@ -33,6 +35,7 @@ Be sure to have the following for the entire conference:
    - Coffee (you can invite someone to sell it at the conference)
    
 ## Preparation for PyCon
+- Find a venue for PyCon. They need to do an ocullar visit.
 - Contact the sponsors on any giveaways. Find a location where the items can be delivered to.
 - Find a caterer that can deliver to the venue.
 - Coordinate with the venue in regards to the catering. Some venues have strict guidelines for catering.
