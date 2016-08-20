@@ -4,12 +4,14 @@
 - Responsible for coming up with a theme.
 - Responsible for making a schedule.
 - Responsible for calling, choosing, and preparing for speakers.
+- Coordination with speakers for their talk description, profile picture, and speaker information.
 - Assigning and briefing of emcee
 
 ## Preparation for PyCon
 - Come up with the theme. This is one of the first things to be done. The Python.Ph board of directors would have a short list of possible themes.
-- Maintain a database for volunteer speakers. 
 - Contact potential speakers.
+- Maintain a database for speakers. 
+- Request speakers for profile picture and speaker information.
 - Create a schedule. This should be done at least 2 months before the conference.
 - Select an emcee and brief them.
 
