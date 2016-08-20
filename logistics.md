@@ -43,7 +43,8 @@ Be sure to have the following for the entire conference:
 -- Prepare the war room.
 -- Prepare signs that can help visitors find the conference, classrooms and restrooms.
 -- Coordinate with caterer
-- Plan the route within venue. For example, the route from one building to another in case a workshop or talk will be held elsewhere. Make sure members of your team knows the route.
+- The committee should have a map of the venue and other important locations such as the nearest infirmary, hospital, and police station. 
+- Plan the routes within the venue. For example, the route from one building to another in case a workshop or talk will be held elsewhere. Make sure members of your team knows the route.
 
 ## During the PyCon
 - Make sure that there is at least one person in the war room. That person will guard a lot of equipment, so if needed, assign two people.
