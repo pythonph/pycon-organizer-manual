@@ -4,6 +4,7 @@
    * [What is PyCon Philippines (PyCon PH)?](pyconph.md)
    * [Code of Conduct](coc.md)
    * [Volunteers](volunteers.md)
+   * [PyCon Chair](chair.md)
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
