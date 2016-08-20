@@ -1,8 +1,8 @@
-# Reporting to PSF
+# Reporting to Python Software Foundation
 
-We need to report to the Python Software Foundation, send copies of conference pictures to them and demographic report after the conference
+As part of our sponsorship with Python Software Foundation, we are required to send them conference pictures and a demographic report.
 
-Sample:
+## Sample report
 
 **PyCon 2014**
 - Students 13.15%
@@ -22,6 +22,3 @@ We had a turnout of roughly 240 attendees for both conferences.
 Here are also some fun pictures from last year:
 - Day 1: https://plus.google.com/photos/+MarkSteveSamson/albums/6004595439933920113
 - Day 2: https://plus.google.com/photos/+MarkSteveSamson/albums/6004595970563723521
-
-### Send a survey to the audience via email
-
