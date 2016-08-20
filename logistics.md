@@ -1,23 +1,28 @@
 # Logistics
 
-This task is one of the most challenging tasks in organizing PyCon. It involves venue sourcing, selection, and preparation; arrangement of catering for snacks, meals, and drinks; hospitality, reception, and concierge services.
+This task is one of the most challenging tasks in organizing PyCon. It involves venue sourcing, selection, and preparation; arrangement of catering for snacks, meals, and drinks.
 
 ## Responsibilities
 
-- Responsible for conference food, volunteer briefing, contributors (sponsors, speakers and volunteers) dinner on Day 1 and footwork
-- Tasks also include all the footwork and communication needed to get things in order for our conference venue and food
+- Responsible for communicating with the venue.
+- Responsible for conference food and communicating with catering
+- Responsible for volunteer briefing
+- Responsible for contributor's dinner (sponsors, speakers and volunteers)
+- Responsible for communicating with the catering
+- Footwork and heavy lifting
 
-### Venue
-- Reservation of venue includes the following:
-   - Conference hall for 300pax for Day 1 and Day 2
-   - 2-3 Classrooms for Day 2 Workshops
-   - War room for volunteers (a small classroom will do)
-   - Sound system, microphone, projector, projector screen, internet connection, electric outlet, extension cords, etc
-   - Consider parking spaces (parking spaces at nearby establishments will do)
-   - Signs that help visitors find the conference, classrooms and restrooms
+## Venue
+Reservation of venue should include the following:
+- Conference hall for at least 300pax for Day 1 and Day 2
+- At least 2 classrooms for Workshops. Coordinate with Program committee on the classroom size that the workshop speakers need.
+- War room for volunteers (a small classroom will do)
+- Sound system, microphone, projector, projector screen, internet connection, electric outlet, extension cords, etc
+- Consider parking spaces (parking spaces at nearby establishments will do)
 
-### Food
-- It will be ideal to find a caterer who will take care of everything but if you can't due to budget contraints, packed meals will do. You will need to consider the following for Day 1 and Day 2
+## Food
+The ideal situation is to find a caterer who will take care of everything such as setting up the tables and distributing the meals. But if it is not possible to get a caterer, packed meals are sufficient. 
+
+Be sure to have the following for the entire conference:
    - AM snacks 
    - Lunch
    - PM Snacks
@@ -26,3 +31,24 @@ This task is one of the most challenging tasks in organizing PyCon. It involves 
    - Tissue Paper
    - Untensils
    - Coffee (you can invite someone to sell it at the conference)
+   
+## Preparation for PyCon
+- Contact the sponsors on any giveaways. Find a location where the items can be delivered to.
+- Find a caterer that can deliver to the venue.
+- Coordinate with the venue in regards to the catering. Some venues have strict guidelines for catering.
+- One week before PyCon:
+-- Prepare the war room.
+-- Prepare signs that can help visitors find the conference, classrooms and restrooms.
+-- Coordinate with caterer
+- Plan the route within venue. For example, the route from one building to another in case a workshop or talk will be held elsewhere. Make sure members of your team knows the route.
+
+## During the PyCon
+- Make sure that there is at least one person in the war room. That person will guard a lot of equipment, so if needed, assign two people.
+- Assign people at strategic location. Don't forget to rotate people so they will have time to enjoy the conference.
+- Talk to the different committees and see what they need.
+- Be prepared to do footwork.
+- Be prepared to do footwork.
+- Be prepared to do a lot of footwork.
+
+## After the PyCon
+- Relax. Your work is done. Let the other committee handle the rest.
