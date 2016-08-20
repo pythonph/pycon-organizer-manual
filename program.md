@@ -79,7 +79,7 @@ Bring two copies of the following:
 1. SEC Registration / Certificate of Incorporation
 1. Invitation Letter. Must contain the following:
 
-* Objective
-* Venue
-* Ticket cost
-* Contact details
+- Objective
+- Venue
+- Ticket cost
+- Contact details
