@@ -4,39 +4,56 @@
 - Responsible for coming up with a theme.
 - Responsible for making a schedule.
 - Responsible for calling, choosing, and preparing for speakers.
-- Filipino hospitality for our foreign speakers
-- Accomodation for foreign speakers/guests
-- Merienda
-- Meeting foreign speakers/guests at the airport
-- Escort foreign speakers/guests to their hotel
-- Immigration letters
-- Assign and brief emcee
+- Assigning and briefing of emcee
 
-## Speakers
+## Preparation for PyCon
+- Come up with the theme. This is one of the first things to be done. The Python.Ph board of directors would have a short list of possible themes.
+- Maintain a database for volunteer speakers. 
+- Contact potential speakers.
+- Create a schedule. This should be done at least 2 months before the conference.
+- Select an emcee and brief them.
 
-It's our priority to make sure we maintain the quality of talks and speakers for PyCon. Talks and workshop must always be related to Python. 
+## During the PyCon
+- Ready the speakers before their speaking slot.
+- Remind the emcee of things that needs to be mentioned. (Check the Emcee section)
 
-The call for speaker page should contain this line:
 
-"Please note that since this is a volunteer-run, not-for-profit conference, we cannot reimburse your travel costs."
+## Selecting the Speakers
 
-This is to remove expectations that we will shoulder the speakers' traveling expenses. But for the keynotes, it will be on a case-by-case basis if the conference can assist their expenses.
+It is Python.PH's priority to ensure that quality of talks and speakers for PyCon is maintained. 
+
+To remove any expectations that we will shoulder the speakers' traveling expenses, the call for speaker page should contain this line:
+
+```Please note that since this is a volunteer-run, not-for-profit conference, we cannot reimburse your travel costs.```
+
+An exception is made for the keynote speakers on a case-by-case basis.
 
 ### Keynote Speakers
 
+A shortlist is usually provided by the PyCon Chair on people that can be a Keynote speaker. It is the responsibility of the Program committee to contact these potential Keynote speakers.
+
 ### Workshop Speakers
+
+For workshop speakers, the committee should also obtain the following information:
+- Length of workshop
+- Diffculty level
+- Maximum participant size
+- Pre-requisite knowledge
+- Software, library, and/or hardware pre-requisites for the workshop. These should be coordinated with the venue.
+- Any other assistance needed
 
 ### Confirmation of speakers
 
 1. Use president@python.ph to send the approval of speakers. This is to add legitimacy to the letter and to make the speakers feel good that the president themself is sending the letter.
-2. Ask in the approval letter if the foreign speaker needs help with the visa.
+2. Ask in the approval letter if the foreign speaker needs help with the visa. If they do, coordinate with the [Guest Relations team](guest-relations.md).
 
 ## Emcees
 
 Here's a checklist of tasks/pointers for PyCon emcees:
+
 - Introduce speakers before their talk
 - Mention Sponsors during breaks, welcome and closing remarks, and set-up phase
-- Mention Corporate Ticket buyers and recognize the presence of company representatives at PyCon. If possible, ask them to stand so we could give them a round of applause.
-- Speak in English so we can make our foreign guests feel welcome.
-- Follow the [Code of Conduct](http://ph.pycon.org/coc.html)
-- As closing, wish the attendees a safe trip home and we'll see them tomorrow (if day 1) or we'll see them again next year.
+- Mention Corporate Ticket buyers and recognize the presence of company representatives at PyCon. If possible, ask them to stand so the participants can thank them with a round of applause.
+- Speak in English, so we can make our foreign guests feel welcome.
+- Re-iterate that the audience need to follow the [Code of Conduct](http://ph.pycon.org/coc.html)
+- As closing, wish the attendees a safe trip home and that we'll see them on the next day (if day 1) or that we'll see them again next year.
