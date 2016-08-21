@@ -8,8 +8,10 @@
 
 ## Preparation for PyCon
 - Create a security guideline that the team will follow.
-- Review the guideline and Code of Conduct at least a day before PyCon.
 - Review the emergency procedures. Coordinate with logistics committee for map of venue and important locations such as the nearest infirmary, hospital, and police station.
+- Prepare a standard uniform or badge to wear. Coordinate with the Marketing Committee to help promote the Security Uniform to attendees.
+- Prepare a new phone number for exclusive use by the Security team during PyCon.
+- Review the security guideline and Code of Conduct at least a day before PyCon.
 - Find a safe room at the venue where a victim can stay in. It is the security team's discretion if the volunteer's war room is a sufficient safe room.
 
 ## During the PyCon
@@ -18,6 +20,7 @@
 - Report directly to the Chair in case of incidents.
 - Assign a guard for the war room.
 - Assign a guard for the safe room if it is needed.
+- Assign a person to monitor the security team's phone number.
 
 ## After the PyCon
 - In case there were unwanted incidents, a report should be created. This report should contain:
