@@ -10,10 +10,10 @@ As a committee leader, you are responsible for coordinating to your committee vo
 ## During the PyCon
 - Communicate with your team and the PyCon Chair.
 - Be pro-active in any potential problems. If you identify one, fix it before it becomes an issue
-- While the Chair has the final decision, during an emergency or if necessarily, you have to make a decision on the spot.
+- While the Chair has the final decision, be sure to be aware of emergency procedures. You might need to make a decision on the spot.
 
 ## After the PyCon
-- Relax. Managing a conference is a hard and fulfilling endeavor. You deserve to relax
+- Relax. Managing a conference is a hard and fulfilling endeavor. You deserve to relax.
 
 
 # Tips for managing volunteers

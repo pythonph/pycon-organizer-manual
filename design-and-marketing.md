@@ -2,16 +2,18 @@
 
 ## Responsibilities
 
-- Responsible for going to events and advertising PyCon.
-- Responsible for gathering feedback (during pycon and after pycon).
-- Responsible for mailchimp (email marketing and announcements)
-- Responsible for building the PyCon website
-- Responsible for web and print advertisements
-- Responsible for tarpaulin and banner designs
-- Responsible for brochure
-- Responsible for speakers, volunteer, and participants IDs
-- Responsible for preparing swags
-- Responsible for designing T-shirt
+The design and marketing team is responsible for:
+
+- going to events and advertising PyCon.
+- gathering feedback (during pycon and after pycon).
+- mailchimp (email marketing and announcements)
+- building the PyCon website
+- web and print advertisements
+- tarpaulin and banner designs
+- brochure
+- speakers, volunteer, and participants IDs
+- preparing swags
+- designing T-shirt
 
 ## Preparation for PyCon
 - Make sure that the participants will be informed of [Code of Conduct](http://pycon.python.ph/coc.html) prior to the event. The CoC should appear on at least the website and the tickets.
