@@ -18,6 +18,7 @@
    * [Documentation](documentation.md)
    * [Stagehand](stagehand.md)
    * [Ticketing](ticketing.md)
+   * [Security](security.md)
 * Post-conference
    * [Survey](survey.md)
    * [Reporting to PSF](psf-report.md)
