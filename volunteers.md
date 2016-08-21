@@ -1,6 +1,6 @@
 # Volunteers
 
-**The Python Conference lives and dies by its volunteers.** The more volunteers there are, the easier the indiviudal work load is. The strength of each individual volunteer will have a direct improvement to the event.
+**The Python Conference lives and dies by its volunteers.** The more volunteers there are, the easier the individual work load is. The strength of each individual volunteer will have a direct improvement to the event.
 
 To bring in volunteers, the leaders should post a `Call for Volunteers` on social media. Each volunteer will sign up to a committee they are interested in helping. Each committee leader is responsible for debriefing the volunteer and assigning tasks to them.
 

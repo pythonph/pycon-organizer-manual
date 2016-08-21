@@ -6,12 +6,14 @@ The challenge in this committee involves venue sourcing, selection, and preparat
 
 ## Responsibilities
 
-- Responsible for communicating with the venue.
-- Responsible for conference food and communicating with catering
-- Responsible for volunteer briefing
-- Responsible for contributor's dinner (sponsors, speakers and volunteers)
-- Responsible for communicating with the catering
-- Footwork and heavy lifting
+The Logistics committee is responsible for:
+
+- communicating with the venue.
+- conference food and communicating with catering
+- volunteer briefing
+- contributor's dinner (sponsors, speakers and volunteers)
+- communicating with the catering
+- footwork and heavy lifting
 
 ## Venue
 Reservation of venue should include the following:
@@ -35,7 +37,7 @@ Be sure to have the following for the entire conference:
    - Coffee (you can invite someone to sell it at the conference)
    
 ## Preparation for PyCon
-- Find a venue for PyCon. They need to do an ocullar visit.
+- Find a venue for PyCon. They need to do an ocular visit.
 - Contact the sponsors on any giveaways. Find a location where the items can be delivered to.
 - Find a caterer that can deliver to the venue.
 - Coordinate with the venue in regards to the catering. Some venues have strict guidelines for catering.

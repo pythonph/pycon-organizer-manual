@@ -5,7 +5,7 @@ In addition, volunteers are required to read the [Python Software Foundation's C
 
 ## Rationale
 
-PyCon is a community conference where attendees are from different parts of life. To accomodate this diversity, the organizers must prepare an environment where participants will feel safe and respected, regardless of their gender, personal belief, or opinions. This is to promote colaboration and a spirit of community.
+PyCon is a community conference where attendees are from different walks of life. To accomodate this diversity, the organizers must prepare an environment where participants will feel safe and respected, regardless of their gender, personal belief, or opinions. This is to promote collaboration and a spirit of community.
 
 In an unfortunate event where someone is harrassed during the event (or due to connections formed during the conference), the Code of Conduct can be used as grounds for any actions the leaders will decide. On minor offenses, the offender can be warned or escorted out of the coference. On major offenses, Python.Ph will blacklist the offender from future events.
 
@@ -19,7 +19,7 @@ In addition, the PSF will only sponsor PyCons that have a Code of Conduct.
 - Double check that PyCon tickets have a link to the CoC.
 - Make sure that the volunteers are aware of the CoC.
 - The security committee must review the CoC. Their contact details (e.g. phone numbers and uniform worn at the event) must be in the document.
-- Prepare a safety room in case individuals needed to be separated. Assign a guard if needed. The war room can double as a safety room, in case the venue do not have an extra room.
+- Prepare a safety room in case individuals needed to be separated. Assign a guard if needed. The war room can double as a safety room, in case the venue does not have an extra room.
 
 ## During the PyCon
 
