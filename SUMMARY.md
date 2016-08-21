@@ -3,10 +3,12 @@
 * [Introduction](README.md)
    * [What is PyCon Philippines (PyCon PH)?](pyconph.md)
    * [Code of Conduct](coc.md)
+* [Planning]
    * [PyCon Chair](chair.md)
    * [Volunteers](volunteers.md)
    * [Communication between volunteers](communication.md)
    * [On-boarding Volunteers](onboarding.md)
+   * [Budgeting](budget.md)
 * [Committees and Responsibilities](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
