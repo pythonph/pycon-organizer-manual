@@ -1,17 +1,19 @@
 # Program
 ## Responsibilities
 
+- Responsible for sending emails to speakers
 - Responsible for coming up with a theme.
 - Responsible for making a schedule.
 - Responsible for calling, choosing, and preparing for speakers.
 - Coordination with speakers for their talk description, profile picture, and speaker information.
+- Coordinating details related to guest relations
 - Assigning and briefing of emcee
 - Responsible for contacting the Commission on Higher Education (CHED) for endorsement of PyCon.
 
 ## Preparation for PyCon
 - Come up with the theme. This is one of the first things to be done. The Python.Ph board of directors would have a short list of possible themes.
 - Contact potential speakers.
-- Maintain a database for speakers. 
+- Maintain a database for speakers.
 - Request speakers for profile picture and speaker information.
 - Create a schedule. This should be done at least 2 months before the conference.
 - Select an emcee and brief them.
@@ -24,7 +26,7 @@
 
 ## Selecting the Speakers
 
-It is Python.PH's priority to ensure that quality of talks and speakers for PyCon is maintained. 
+It is Python.PH's priority to ensure that quality of talks and speakers for PyCon is maintained.
 
 To remove any expectations that we will shoulder the speakers' traveling expenses, the call for speaker page should contain this line:
 
@@ -65,7 +67,7 @@ Here's a checklist of tasks/pointers for PyCon emcees:
 
 ### CHED Endorsement
 
-This is required for the education sector to participate in PyCon. 
+This is required for the education sector to participate in PyCon.
 
 At CHED Central, look for the Records Room. You can tell the front desk that you want CHED to endorse a conference.
 
