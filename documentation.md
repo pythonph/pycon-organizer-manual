@@ -2,7 +2,7 @@
 
 ## Responsibilities
 
-The Documentation committee is responsible for:
+The Documentation team is responsible for:
 
 - Finding a local videographer and photographer for PyCon
 - social media exposure (facebook, twitter, etc).
@@ -13,11 +13,11 @@ The Documentation committee is responsible for:
 - This team is responsible for finding a photographer to take pictures during the conference, and a videographer to record the conference talks.
 - Promote the event on social media.
 
-## During the PyCon
+## During PyCon
 - Take pictures and upload them on social media.
 - Promote the event on social media.
 
-## After the PyCon
+## After PyCon
 - Update the website for the pictures and videos.
 - Write a blog post on PyCon.
 - Promote the event on social media.

@@ -18,7 +18,7 @@ The design and marketing team is responsible for:
 ## Preparation for PyCon
 - Make sure that the participants will be informed of [Code of Conduct](http://pycon.python.ph/coc.html) prior to the event. The CoC should appear on at least the website and the tickets.
 - Advertise PyCon at different events.
-- Advertise PyCon at different schools (coordinate with Program committee for CHED endorsement)
+- Advertise PyCon at different schools (coordinate with Program team for CHED endorsement)
 - Design the T-shirts for the Audience, Volunteers, and Speakers.
 
 ### Email Marketing

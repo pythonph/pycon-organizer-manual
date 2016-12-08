@@ -24,8 +24,8 @@ The Stagehand committee are responsible for:
 1. Paper
 1. Marker
 
-## During the PyCon
+## During PyCon
 - The committee should pay attention to the needs of a speaker. If you've noticed that their microphone or converter isn't working, immediately go to the stage and offer a replacement.
 
-## After the PyCon
+## After PyCon
 - The committee should ensure that extra equipments are properly stored.

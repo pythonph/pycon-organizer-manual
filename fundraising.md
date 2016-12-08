@@ -1,6 +1,6 @@
 # Fundraising
 
-Just like any other endeavor, we need funding to bring our ideas to life. Conferences incur big expenses such as the venue, food, logistics, travel, etc. 
+Just like any other endeavor, we need funding to bring our ideas to life. Conferences incur big expenses such as the venue, food, logistics, travel, etc.
 
 PyCon.PH strives for the diversity of its audience -- we can't achieve that if our tickets are too expensive.
 
@@ -16,11 +16,11 @@ PyCon.PH strives for the diversity of its audience -- we can't achieve that if o
 - A Memorandum of Agreement is helpful for establishing exactly what the Sponsor will offer.
 - Two weeks before PyCon, contact the sponsors with regard to the giveaways (if any). Coordinate with the [Logistics](logistics.md).
 
-## During the PyCon
+## During PyCon
 - Make sure that the sponsors are well presented.
-- Coordinate with the [Documentation](documentation.md) committee to ensure that the sponsors are mentioned on social media.
+- Coordinate with the [Documentation](documentation.md) team to ensure that the sponsors are mentioned on social media.
 
-## After the PyCon
+## After PyCon
 - Send a thank you letter to the sponsors.
 
 ## Tips for getting sponsors

@@ -1,6 +1,6 @@
 # Guest Relations
 
-This committee is responsible for ensuring the safety and to ensure a pleasant experience to our foreign and local guests (especially the speakers).
+This team is responsible for ensuring the safety and to ensure a pleasant experience to our foreign and local guests (especially the speakers).
 
 ## Responsibilities
 
@@ -21,10 +21,10 @@ This committee is responsible for ensuring the safety and to ensure a pleasant e
 - Create the feedback form. Don't forget to update this for each new speaker.
 - Assign specific members to each speaker. Introduce them prior to the PyCon.
 
-## During the PyCon
+## During PyCon
 - Pay attention to the needs of the speakers.
 
-## After the PyCon
+## After PyCon
 - Send a message thanking the speakers for helping with the PyCon.
 
 
