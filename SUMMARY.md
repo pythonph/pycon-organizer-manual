@@ -9,7 +9,7 @@
    * [Communication between volunteers](communication.md)
    * [On-boarding Volunteers](onboarding.md)
    * [Budgeting](budget.md)
-* [Committees and Responsibilities](committees.md)
+* [Teams](committees.md)
    * [Fundraising](fundraising.md)
    * [Logistics](logistics.md)
    * [Design and Marketing](design-and-marketing.md)
