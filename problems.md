@@ -15,7 +15,7 @@ Solution: Put in the program that the PyCon will start strictly on time.
 Situation: During the Lightning Talk of PyCon 2014, a presenter prayed in front of the audience (as part of their program). A Muslim did not appreciate that (with good reason).
 
 Solution: Have all of the audience agree to the Code of Conduct
-Solution: Have the stage-hand committee monitor the audience during the event and approach appropriately.
+Solution: Have the stage-hand team monitor the audience during the event and approach appropriately.
 Solution: For the lightning talk presenters, remind them about the conduct and summarize to them what is acceptable and what is not.
 Solution: Have the stage-hand turn off the mic in case COC is broken. Feign technical difficulties.
 
