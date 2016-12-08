@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [What is PyCon Philippines (PyCon PH)?](pyconph.md)
    * [Code of Conduct](coc.md)
-* [Planning]
+* Planning
    * [PyCon Chair](chair.md)
    * [Volunteers](volunteers.md)
    * [Communication between volunteers](communication.md)
@@ -25,3 +25,4 @@
    * [Problems Encountered and Possible Solutions](problems.md)
 * Example
    * [PyCon Timeline](timeline.md)
+
