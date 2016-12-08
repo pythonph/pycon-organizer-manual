@@ -2,7 +2,7 @@
 
 Just like any other endeavor, we need funding to bring our ideas to life. Conferences incur big expenses such as the venue, food, logistics, travel, etc.
 
-PyCon.PH strives for the diversity of its audience -- we can't achieve that if our tickets are too expensive.
+PyCon PH strives for the diversity of its audience -- we can't achieve that if our tickets are too expensive.
 
 ## Responsiblities
 - Looking for Sponsors

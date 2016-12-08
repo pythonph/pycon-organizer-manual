@@ -37,7 +37,7 @@ Solution: Contact the foreign speaker at least 6 weeks prior to PyCon and ask fo
 - Details for outgoing flight (airline company and flight number)
 - Hotel reservations. More likely, we will be looking for a hotel for them to stay in. But if they have a hotel in mind, we can accommodate.
 - Letter for their company confirming our acceptance of their talk (must be sent via president@python.ph to give weight and formality when forwarded to their company)
-- "Is there anything you'll need from us to ensure that you'll be able to attend PyCon.PH [year]?"
+- "Is there anything you'll need from us to ensure that you'll be able to attend PyCon PH [year]?"
 
 
 ## Overtime
