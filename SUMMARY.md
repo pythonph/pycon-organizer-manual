@@ -19,6 +19,7 @@
    * [Stagehand](stagehand.md)
    * [Ticketing](ticketing.md)
    * [Security](security.md)
+   * [Emcee](emcee.md)
 * Post-conference
    * [Survey](survey.md)
    * [Reporting to PSF](psf-report.md)
