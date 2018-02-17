@@ -21,8 +21,10 @@
 
 ## During the PyCon
 - Ready the speakers before their speaking slot.
-- Remind the emcee of things that needs to be mentioned. (Check the Emcee section)
+- Remind the emcee of things that needs to be mentioned. (Check the [Emcee section](emcee.md))
 
+## After the PyCon
+- Provide feedback and suggestions on the experience of the committee
 
 ## Selecting the Speakers
 
@@ -52,18 +54,6 @@ For workshop speakers, the committee should also obtain the following informatio
 
 1. Use president@python.ph to send the approval of speakers. This is to add legitimacy to the letter and to make the speakers feel good that the president themself is sending the letter.
 2. Ask in the approval letter if the foreign speaker needs help with the visa. If they do, coordinate with the [Guest Relations team](guest-relations.md).
-
-## Emcees
-
-Here's a checklist of tasks/pointers for PyCon emcees:
-
-- Introduce speakers before their talk
-- Mention Sponsors during breaks, welcome and closing remarks, and set-up phase
-- Mention Corporate Ticket buyers and recognize the presence of company representatives at PyCon. If possible, ask them to stand so the participants can thank them with a round of applause.
-- Speak in English, so we can make our foreign guests feel welcome.
-- Re-iterate that the audience need to follow the [Code of Conduct](http://ph.pycon.org/coc.html)
-- As closing, wish the attendees a safe trip home and that we'll see them on the next day (if day 1) or that we'll see them again next year.
-
 
 ### CHED Endorsement
 

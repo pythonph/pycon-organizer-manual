@@ -7,6 +7,8 @@ The Emcees are responsible for:
 - communicating with the audience
 - maintaining order and minimizing panic in an emergency
 
+## Emcees
+
 ## Preparation for PyCon
 ### For those preparing materials for the emcees
 - Gather a list of the following:
@@ -22,8 +24,10 @@ The Emcees are responsible for:
 
 ## During the PyCon
 - Coordinate with the stage hand commitee for changes in the sound system
+- Speak in English, so we can make our foreign guests feel welcome.
+- Re-iterate that the audience need to follow the [Code of Conduct](http://ph.pycon.org/coc.html)
+- Introduce speakers before their talk
 - The emcees will announce:
--- speakers and talks
 -- breakout sessions
 -- instructions/directions to breakout sessions rooms
 -- general announcements from the PyCon chair and commitee leaders
@@ -31,12 +35,13 @@ The Emcees are responsible for:
 - The emcees will acknowledge sponsors during downtime
 -- The emcee for the first day will acknowledge:
 -- local Python community leaders
--- companies that brought corporate tickets
+-- companies that brought corporate tickets. Ask them to stand so the participants can thank them with a round of applause.
 - The emcees will have control during the lightning talks including:
 -- Callling for lightning talks participants
 -- Iterating the mechanics of lightning talks
 -- Stopping a speaker who went past the time limit for lightning talks
-- At the end of the day, thank the audience for their participation
+- At the end of the day, thank the audience for their participation, wish the attendees a safe trip home, and that we'll see them on the next day (if day 1) or that we'll see them again next year.
 
 ## After the PyCon
 - Provide feedback of participants experience
+- Provide feedback and suggestions on the experience of the emcee committee
