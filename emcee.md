@@ -14,7 +14,7 @@ The Emcees are responsible for:
 - Gather a list of the following:
 -- speaker names and talks by room
 -- sponsors
--- local Python community leaders
+-- local Python community groups and their leaders
 -- companies that brought corporate tickets
 
 ### For the Emcee
@@ -25,7 +25,7 @@ The Emcees are responsible for:
 ## During the PyCon
 - Coordinate with the stage hand commitee for changes in the sound system
 - Speak in English, so we can make our foreign guests feel welcome.
-- Re-iterate that the audience need to follow the [Code of Conduct](http://ph.pycon.org/coc.html)
+- Re-iterate that the audience need to follow the Code of Conduct.
 - Introduce speakers before their talk
 - The emcees will announce:
 -- breakout sessions
