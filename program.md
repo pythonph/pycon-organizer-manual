@@ -1,9 +1,11 @@
 # Program
 ## Responsibilities
 
+- Responsible for sending emails to speakers
 - Responsible for coming up with a theme.
 - Responsible for making a schedule.
 - Responsible for calling, choosing, and preparing for speakers.
+- Coordinating details related to guest relations
 - Coordination with speakers for their talk description, profile picture, and speaker information.
 - Assigning and briefing of emcee
 - Responsible for contacting the Commission on Higher Education (CHED) for endorsement of PyCon.

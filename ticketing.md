@@ -17,7 +17,7 @@ There should be a cut-off for tickets sold online. This is to give the entire Py
 
 ## During the PyCon
 - Print a list of people who brought tickets.
-- Assing at least one person per one hundred participants.
+- Assign at least one person per one hundred participants.
 
 ## After the PyCon
 - Prepare a report for the PSF

@@ -12,7 +12,7 @@
 - Prepare a standard uniform or badge to wear. Coordinate with the Marketing Committee to help promote the Security Uniform to attendees.
 - Prepare a new phone number for exclusive use by the Security team during PyCon.
 - Review the security guideline and Code of Conduct at least a day before PyCon.
-- Find a safe room at the venue where a victim can stay in. It is the security team's discretion if the volunteer's war room is a sufficient safe room.
+- Prepare a safe room, in case someone is harassed or a victim of a breach in the Code of Conduct. It is the security team's discretion if the volunteer's war room is a sufficient safe room.
 
 ## During the PyCon
 - Be vigilant and approachable.

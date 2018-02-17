@@ -22,7 +22,6 @@ In addition, the PSF will only sponsor PyCons that have a Code of Conduct.
 - Prepare a safety room in case individuals needed to be separated. Assign a guard if needed. The war room can double as a safety room, in case the venue does not have an extra room.
 
 ## During the PyCon
-
 - Make sure that the CoC is easily accessible for the participants. This can be done via a url on the tickets or as printed material.
 - Announce the CoC at the start of each PyCon day and during breaks (at the emcee's discretion).
 

@@ -35,7 +35,7 @@ Be sure to have the following for the entire conference:
    - Tissue Paper
    - Untensils
    - Coffee (you can invite someone to sell it at the conference)
-   
+
 ## Preparation for PyCon
 - Find a venue for PyCon. They need to do an ocular visit.
 - Contact the sponsors on any giveaways. Find a location where the items can be delivered to.

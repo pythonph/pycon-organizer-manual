@@ -7,12 +7,12 @@ As a committee leader, you are responsible for coordinating to your committee vo
 - Assign each volunteer to an action
 - Be sure to know what to do during an emergency. Coordinate with the security committee.
 
-## During the PyCon
+## During PyCon
 - Communicate with your team and the PyCon Chair.
 - Be pro-active in any potential problems. If you identify one, fix it before it becomes an issue
 - While the Chair has the final decision, be sure to be aware of emergency procedures. You might need to make a decision on the spot.
 
-## After the PyCon
+## After PyCon
 - Relax. Managing a conference is a hard and fulfilling endeavor. You deserve to relax.
 
 
@@ -34,6 +34,6 @@ Boxers also use this technique during training by visualizing their target behin
 
 - Based on experience, one of the best ways to lead an open source community is to **lead by example**.
 
-## From the Python.Ph community to the committee leader
+## From the PythonPH community to the committee leader
 
 As a committee leader, **you rock! Thank you so much for stepping-up! :)**

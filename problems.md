@@ -15,7 +15,7 @@ Solution: Put in the program that the PyCon will start strictly on time.
 Situation: During the Lightning Talk of PyCon 2014, a presenter prayed in front of the audience (as part of their program). A Muslim did not appreciate that (with good reason).
 
 Solution: Have all of the audience agree to the Code of Conduct
-Solution: Have the stage-hand committee monitor the audience during the event and approach appropriately.
+Solution: Have the stage-hand team monitor the audience during the event and approach appropriately.
 Solution: For the lightning talk presenters, remind them about the conduct and summarize to them what is acceptable and what is not.
 Solution: Have the stage-hand turn off the mic in case COC is broken. Feign technical difficulties.
 
@@ -37,7 +37,7 @@ Solution: Contact the foreign speaker at least 6 weeks prior to PyCon and ask fo
 - Details for outgoing flight (airline company and flight number)
 - Hotel reservations. More likely, we will be looking for a hotel for them to stay in. But if they have a hotel in mind, we can accommodate.
 - Letter for their company confirming our acceptance of their talk (must be sent via president@python.ph to give weight and formality when forwarded to their company)
-- "Is there anything you'll need from us to ensure that you'll be able to attend PyCon.PH [year]?"
+- "Is there anything you'll need from us to ensure that you'll be able to attend PyCon PH [year]?"
 
 
 ## Overtime
