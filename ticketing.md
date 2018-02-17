@@ -23,3 +23,4 @@ There should be a cut-off for tickets sold online. This is to give the entire Py
 - Prepare a report for the PSF
 - Prepare a report on the PyCon demographic.
 - Prepare a confidential report on ticket sale, t-shirt sale, etc. This report will be submitted to Python.Ph's treasurer.
+- Provide feedback and suggestions on the experience of the ticketing committee

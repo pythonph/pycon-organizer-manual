@@ -29,3 +29,4 @@ The Stagehand committee are responsible for:
 
 ## After the PyCon
 - The committee should ensure that extra equipments are properly stored.
+- Provide feedback and suggestions on the experience of the stagehand committee

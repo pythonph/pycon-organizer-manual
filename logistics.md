@@ -58,3 +58,4 @@ Be sure to have the following for the entire conference:
 
 ## After the PyCon
 - Relax. Your work is done. Let the other committee handle the rest.
+- Provide feedback and suggestions on the experience of the logistics committee

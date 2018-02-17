@@ -26,3 +26,6 @@ The design and marketing team is responsible for:
 ### Social Media
 
 ### Media Partners
+
+# After the PyCon
+- Provide feedback and suggestions on the experience of the committee

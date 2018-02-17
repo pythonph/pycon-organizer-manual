@@ -21,4 +21,5 @@ The Documentation committee is responsible for:
 - Update the website for the pictures and videos.
 - Write a blog post on PyCon.
 - Promote the event on social media.
+- Provide feedback and suggestions on the experience of the documentation committee
 

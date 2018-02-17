@@ -38,6 +38,7 @@ PyCon.PH strives for the diversity of its audience -- we can't achieve that if o
 
 ## After the PyCon
 - Send a thank you letter to the sponsors.
+- Provide feedback and suggestions on the experience of the fundraising committee
 
 ## Tips for getting sponsors
 - Looking for sponsors can be tedious. Getting as many as possible involved in the process can go a long way. Create letter templates for prospective sponsors and have the team send them out. It might be tempting to automate this but it's better if you don't. By doing this manually, you will unconciously put more thought and effort to your letters.

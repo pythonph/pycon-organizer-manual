@@ -28,3 +28,4 @@
 1. Steps taken during PyCon
 1. Steps taken after PyCon
 1. Suggestions to prevent the same incident on future events
+- Provide feedback and suggestions on the experience of the security committee

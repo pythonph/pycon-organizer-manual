@@ -26,6 +26,7 @@ This committee is responsible for ensuring the safety and to ensure a pleasant e
 
 ## After the PyCon
 - Send a message thanking the speakers for helping with the PyCon.
+- Provide feedback and suggestions on the experience of the guest relations committee
 
 
 ## Sample document

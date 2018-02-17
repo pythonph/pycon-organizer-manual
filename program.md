@@ -24,7 +24,7 @@
 - Remind the emcee of things that needs to be mentioned. (Check the [Emcee section](emcee.md))
 
 ## After the PyCon
-- Provide feedback and suggestions on the experience of the committee
+- Provide feedback and suggestions on the experience of the program committee
 
 ## Selecting the Speakers
 
