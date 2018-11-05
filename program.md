@@ -57,7 +57,7 @@ For workshop speakers, the committee should also obtain the following informatio
 
 ### CHED Endorsement
 
-This is required for the education sector to participate in PyCon. 
+This is required for the Philippines education sector to participate in PyCon. 
 
 At CHED Central, look for the Records Room. You can tell the front desk that you want CHED to endorse a conference.
 
@@ -70,8 +70,7 @@ Bring two copies of the following:
 1. Program Schedule
 1. SEC Registration / Certificate of Incorporation
 1. Invitation Letter. Must contain the following:
-
-- Objective
-- Venue
-- Ticket cost
-- Contact details
+-- Objective
+-- Venue
+-- Ticket cost
+-- Contact details
