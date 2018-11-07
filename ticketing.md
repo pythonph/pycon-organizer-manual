@@ -15,11 +15,12 @@ There should be a cut-off for tickets sold online. This is to give the entire Py
 - Test the flow for getting a PyCon ticket.
 - One day before PyCon, prepare a long table for ticket check-in.
 
-## During PyCon
+## During the PyCon
 - Print a list of people who brought tickets.
-- Assing at least one person per one hundred participants.
+- Assign at least one person per one hundred participants.
 
-## After PyCon
+## After the PyCon
 - Prepare a report for the PSF
 - Prepare a report on the PyCon demographic.
-- Prepare a confidential report on ticket sale, t-shirt sale, etc. This report will be submitted to PythonPH's treasurer.
+- Prepare a confidential report on ticket sale, t-shirt sale, etc. This report will be submitted to Python.Ph's treasurer.
+- Provide feedback and suggestions on the experience of the ticketing committee

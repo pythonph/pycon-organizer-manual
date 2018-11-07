@@ -11,22 +11,24 @@
 - Responsible for contacting the Commission on Higher Education (CHED) for endorsement of PyCon.
 
 ## Preparation for PyCon
-- Come up with the theme. This is one of the first things to be done. The PythonPH board of directors would have a short list of possible themes.
+- Come up with the theme. This is one of the first things to be done. The Python.Ph board of directors would have a short list of possible themes.
 - Contact potential speakers.
+- Maintain a database for speakers. 
 - Request speakers for profile picture and speaker information.
-- Maintain a database for speakers.
 - Create a schedule. This should be done at least 2 months before the conference.
 - Select an emcee and brief them.
 - Apply for a CHED endorsement.
 
-## During PyCon
+## During the PyCon
 - Ready the speakers before their speaking slot.
-- Remind the emcee of things that needs to be mentioned. (Check the Emcee section)
+- Remind the emcee of things that needs to be mentioned. (Check the [Emcee section](emcee.md))
 
+## After the PyCon
+- Provide feedback and suggestions on the experience of the program committee
 
 ## Selecting the Speakers
 
-It is PythonPH's priority to ensure that quality of talks and speakers for PyCon is maintained.
+It is Python.PH's priority to ensure that quality of talks and speakers for PyCon is maintained. 
 
 To remove any expectations that we will shoulder the speakers' traveling expenses, the call for speaker page should contain this line:
 
@@ -36,11 +38,11 @@ An exception is made for the keynote speakers on a case-by-case basis.
 
 ### Keynote Speakers
 
-A shortlist is usually provided by the PyCon Chair on people that can be a Keynote speaker. It is the responsibility of the Program team to contact these potential Keynote speakers.
+A shortlist is usually provided by the PyCon Chair on people that can be a Keynote speaker. It is the responsibility of the Program committee to contact these potential Keynote speakers.
 
 ### Workshop Speakers
 
-For workshop speakers, the team should also obtain the following information:
+For workshop speakers, the committee should also obtain the following information:
 - Length of workshop
 - Diffculty level
 - Maximum participant size
@@ -53,21 +55,9 @@ For workshop speakers, the team should also obtain the following information:
 1. Use president@python.ph to send the approval of speakers. This is to add legitimacy to the letter and to make the speakers feel good that the president themself is sending the letter.
 2. Ask in the approval letter if the foreign speaker needs help with the visa. If they do, coordinate with the [Guest Relations team](guest-relations.md).
 
-## Emcees
-
-Here's a checklist of tasks/pointers for PyCon emcees:
-
-- Introduce speakers before their talk
-- Mention Sponsors during breaks, welcome and closing remarks, and set-up phase
-- Mention Corporate Ticket buyers and recognize the presence of company representatives at PyCon. If possible, ask them to stand so the participants can thank them with a round of applause.
-- Speak in English, so we can make our foreign guests feel welcome.
-- Re-iterate that the audience need to follow the [Code of Conduct](http://ph.pycon.org/coc.html)
-- As closing, wish the attendees a safe trip home and that we'll see them on the next day (if day 1) or that we'll see them again next year.
-
-
 ### CHED Endorsement
 
-This is required for the education sector to participate in PyCon.
+This is required for the Philippines education sector to participate in PyCon. 
 
 At CHED Central, look for the Records Room. You can tell the front desk that you want CHED to endorse a conference.
 
@@ -80,8 +70,10 @@ Bring two copies of the following:
 1. Program Schedule
 1. SEC Registration / Certificate of Incorporation
 1. Invitation Letter. Must contain the following:
+-- Name of current CHED director in to field
+-- Objective
+-- Venue
+-- Ticket cost
+-- Contact details
 
-- Objective
-- Venue
-- Ticket cost
-- Contact details
+After the requirements are received, they will give a phone number. Call them one or two weeks later, and ask if the endorsement is ready.
