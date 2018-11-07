@@ -70,7 +70,10 @@ Bring two copies of the following:
 1. Program Schedule
 1. SEC Registration / Certificate of Incorporation
 1. Invitation Letter. Must contain the following:
+-- Name of current CHED director in to field
 -- Objective
 -- Venue
 -- Ticket cost
 -- Contact details
+
+After the requirements are received, they will give a phone number. Call them one or two weeks later, and ask if the endorsement is ready.
