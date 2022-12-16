@@ -1,4 +1,4 @@
-# PyCon Organizer Manual
+# PyCon PH Organizer Manual
 
 RTD for organizing the yearly Python Conference in the Philippines (PyConPH)
 
