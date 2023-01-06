@@ -1,6 +1,7 @@
 # Guest Relations
 
-This committee is responsible for ensuring the safety and to ensure a pleasant experience to our foreign and local guests (especially the speakers).
+- Past Definition: This committee is responsible for ensuring the safety and to ensure a pleasant experience to our foreign and local guests (especially the speakers).
+- Current Definition: Guide guests and answer random queries, Help Desk, Usher, Crowd Control
 
 ## Responsibilities
 
@@ -24,14 +25,16 @@ This committee is responsible for ensuring the safety and to ensure a pleasant e
 ## During the PyCon
 - Pay attention to the needs of the speakers.
 
+### For Online Section of The Event
+### For F2F Section of The Event
+
 ## After the PyCon
 - Send a message thanking the speakers for helping with the PyCon.
 - Provide feedback and suggestions on the experience of the guest relations committee
 
-
-## Sample document
 ### Immigration letter
 (Ask about Sample Immigration Letters from PyCon 2014)
 
 ### Feedback Form
 WIP
+
