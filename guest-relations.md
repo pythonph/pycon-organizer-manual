@@ -22,7 +22,7 @@
 - Create the feedback form. Don't forget to update this for each new speaker.
 - Assign a certain representative to each speaker. Introduce them prior to the PyCon. This is to ensure that a speaker has at least one contact person from our team for their inquiries and need.
 - Check the video recordings for both Day 1 and Day 2 of the speakers to ensure everything is ready.
-- Remind all speakers about the code of conduct BEFORE the event. (preferably through email, 5-8 days before the actual conference) 
+- Remind all speakers about the code of conduct BEFORE the event. (after January 21) 
 ## During the PyCon
 - Pay attention to the needs of the speakers.
 
