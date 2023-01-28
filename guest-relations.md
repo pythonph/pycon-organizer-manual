@@ -27,7 +27,6 @@
 - Pay attention to the needs of the speakers.
 
 ### For Online Section of The Event
-- Provide an initial preperation check to ALL SPEAKERS to ensure all needed materials (ppt, camera, mic) are working.
 
 ###  For Face-to-Face portion of The Event
 - Provide an initial preperation check that devices related to powerpoints are working before the actual presentation.
