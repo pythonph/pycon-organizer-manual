@@ -1,7 +1,7 @@
 # Guest Relations
+- This committee is responsible for ensuring the safety and to ensure a pleasant experience to our foreign and local guests (especially the speakers).
+- In addition, this committee will be guiding guests online and offline. This is typically done by answering random queries, be on the help desk, usher, and crowd control.
 
-- Past Definition: This committee is responsible for ensuring the safety and to ensure a pleasant experience to our foreign and local guests (especially the speakers).
-- Current Definition: Guide guests and answer random queries, Help Desk, Usher, Crowd Control
 
 ## Responsibilities
 
@@ -29,7 +29,7 @@
 ### For Online Section of The Event
 - Provide an initial preperation check to ALL SPEAKERS to ensure all needed materials (ppt, camera, mic) are working.
 
-### For F2F Section of The Event
+###  For Face-to-Face portion of The Event
 - Provide an initial preperation check that devices related to powerpoints are working before the actual presentation.
 - Ensure and double check that all recordings of the speakers are ready, and can be immediately used by the team responsible for showing the actual ppt.
 - Remind all speakers about the code of conduct BEFORE their actual talk.
